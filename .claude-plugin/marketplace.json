@@ -1,0 +1,11 @@
+{
+  "name": "dina-skills",
+  "owner": { "name": "Dina Farhat" },
+  "plugins": [
+    {
+      "name": "awesome-remotion-skills",
+      "source": "./",
+      "description": "8 production-ready Remotion video skills: core reference, social formats, Lambda, player, templates, motion graphics, data stories, brand kit."
+    }
+  ]
+}

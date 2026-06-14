@@ -1,0 +1,10 @@
+{
+  "name": "awesome-remotion-skills",
+  "version": "0.1.0",
+  "description": "8 production-ready skills for building videos with Remotion — core reference, social formats, Lambda rendering, player embed, templates, motion graphics, data stories, and brand kit.",
+  "author": { "name": "Dina Farhat" },
+  "homepage": "https://github.com/dinaf2026-web/awesome-remotion-skills",
+  "repository": "https://github.com/dinaf2026-web/awesome-remotion-skills",
+  "license": "MIT",
+  "keywords": ["remotion", "video", "motion-graphics", "react", "skills"]
+}
